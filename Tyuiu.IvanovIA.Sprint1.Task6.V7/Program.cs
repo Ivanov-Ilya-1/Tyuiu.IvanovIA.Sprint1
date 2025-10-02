@@ -13,7 +13,7 @@ namespace Tyuiu.IvanovIA.Sprint1.Task6.V7
             Console.Title = "Спринт #1 | Выполнил: Иванов И. А. | ИИПБ-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(" Спринт #1                                                                *");
-            Console.WriteLine(" Тема : Class Math                                                        *");
+            Console.WriteLine(" Тема : Работа со строками класса String                                  *");
             Console.WriteLine(" Задание #6                                                               *");
             Console.WriteLine(" Вариант #7                                                               *");
             Console.WriteLine(" Выполнил : Иванов Илья Анатольевич | ИИПБ-25-1                           *");
